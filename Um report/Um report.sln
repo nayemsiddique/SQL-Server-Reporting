@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Um report", "Um report\Um report.rptproj", "{AAE822BD-AD08-415D-A4AB-A6BC01176EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE822BD-AD08-415D-A4AB-A6BC01176EB8}.Debug|Default.ActiveCfg = Debug
+		{AAE822BD-AD08-415D-A4AB-A6BC01176EB8}.Debug|Default.Build.0 = Debug
+		{AAE822BD-AD08-415D-A4AB-A6BC01176EB8}.Debug|Default.Deploy.0 = Debug
+		{AAE822BD-AD08-415D-A4AB-A6BC01176EB8}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{AAE822BD-AD08-415D-A4AB-A6BC01176EB8}.DebugLocal|Default.Build.0 = DebugLocal
+		{AAE822BD-AD08-415D-A4AB-A6BC01176EB8}.Release|Default.ActiveCfg = Release
+		{AAE822BD-AD08-415D-A4AB-A6BC01176EB8}.Release|Default.Build.0 = Release
+		{AAE822BD-AD08-415D-A4AB-A6BC01176EB8}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66FEB246-37E4-458D-BE8F-18C9E0211022}
+	EndGlobalSection
+EndGlobal
